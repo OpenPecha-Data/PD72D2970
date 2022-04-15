@@ -1,0 +1,29 @@
+id: PD72D2970
+initial_creation_type: input
+source_metadata:
+  title: Instructions on the view of the Middle Way (block print), colophon excerpt
+  author: rong ston shes bya kun rig
+  description: 'Digital version 1.0 {Wylie}, diplomatic edition of witness A; WYLIE
+    COPY of master xml (completed: 2020-05-19); revision in process, thematic TEI
+    markup'
+  source: https://sakyaresearch.org
+  file_info:
+  - 'Language: Wylie'
+  - 'Coverage: Excerpt/Colophon'
+  - 'Accessible: publicly'
+  responibilities:
+  - Digital edition:Sakya Research Centre (src)
+  - Text input:Mathias Fermer (mf)
+  - Editorial process:-
+  - TEI Encoding:Sakya Research Centre
+  - TEI Markup:Mathias Fermer (mf)
+  - Revisions/Corrections:-
+  text_witnesses: https://sakyaresearch.org/sources/1679
+  bases:
+    23d7:
+      title: Instructions on the view of the Middle Way (block print), colophon excerpt
+      order: 1
+      base_file: 23d7.txt
+created_at: '2022-04-15T18:50:03.656687'
+last_modified_at: '2022-04-15T18:50:03.656694'
+quality: null
